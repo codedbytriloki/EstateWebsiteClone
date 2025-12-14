@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/EstateWebsiteClone/static/css/main.7e159252.css",
+    "main.js": "/EstateWebsiteClone/static/js/main.b5151d2f.js",
+    "static/js/453.5f3b0b44.chunk.js": "/EstateWebsiteClone/static/js/453.5f3b0b44.chunk.js",
+    "static/media/header_img.png": "/EstateWebsiteClone/static/media/header_img.46dc24e9bfa49b075938.png",
+    "static/media/brand_img.png": "/EstateWebsiteClone/static/media/brand_img.e2eb95b624915fbff01e.png",
+    "static/media/project_img_3.jpg": "/EstateWebsiteClone/static/media/project_img_3.3f324fa6e1bd2cab2758.jpg",
+    "static/media/project_img_6.jpg": "/EstateWebsiteClone/static/media/project_img_6.636fc5c5ccd7762673cc.jpg",
+    "static/media/project_img_2.jpg": "/EstateWebsiteClone/static/media/project_img_2.d310e750c38a1c592446.jpg",
+    "static/media/project_img_5.jpg": "/EstateWebsiteClone/static/media/project_img_5.461273d04a16dedc4d79.jpg",
+    "static/media/project_img_4.jpg": "/EstateWebsiteClone/static/media/project_img_4.b4598ca54ebb822f3e2e.jpg",
+    "static/media/project_img_1.jpg": "/EstateWebsiteClone/static/media/project_img_1.342f9c1afe49c33cb22a.jpg",
+    "static/media/profile_img_1.png": "/EstateWebsiteClone/static/media/profile_img_1.a18bc8661c9f5aab7cd1.png",
+    "static/media/profile_img_2.png": "/EstateWebsiteClone/static/media/profile_img_2.87edc37f1a8184bed8e4.png",
+    "static/media/profile_img_3.png": "/EstateWebsiteClone/static/media/profile_img_3.b4f92203c8af0994fd4a.png",
+    "static/media/logo_dark.svg": "/EstateWebsiteClone/static/media/logo_dark.b51a75e1959f1d1f62bca2e7dfdaec75.svg",
+    "static/media/logo.svg": "/EstateWebsiteClone/static/media/logo.e3285c1bf13781a7fe2952fb3de7da4c.svg",
+    "static/media/star_icon.svg": "/EstateWebsiteClone/static/media/star_icon.9cbf6c7d0e41a31015e034d67d4f865f.svg",
+    "index.html": "/EstateWebsiteClone/index.html",
+    "static/media/cross_icon.svg": "/EstateWebsiteClone/static/media/cross_icon.9a64794069e04939df2002d90672164c.svg",
+    "static/media/menu_icon.svg": "/EstateWebsiteClone/static/media/menu_icon.f6a63a18e3c68d807e50b1037f3e3555.svg",
+    "static/media/left_arrow.svg": "/EstateWebsiteClone/static/media/left_arrow.38c61a9cb0111cd78d4c52e815708ee8.svg",
+    "static/media/right_arrow.svg": "/EstateWebsiteClone/static/media/right_arrow.3e841722465c16e709b7d522054f68e5.svg",
+    "main.7e159252.css.map": "/EstateWebsiteClone/static/css/main.7e159252.css.map",
+    "main.b5151d2f.js.map": "/EstateWebsiteClone/static/js/main.b5151d2f.js.map",
+    "453.5f3b0b44.chunk.js.map": "/EstateWebsiteClone/static/js/453.5f3b0b44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e159252.css",
+    "static/js/main.b5151d2f.js"
+  ]
+}
